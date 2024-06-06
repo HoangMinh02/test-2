@@ -97,7 +97,9 @@ span.psw {
 <body>
 <div class="boxcenter">
 <h2>Login Admin</h2>
-
+<h1>
+  thienson
+</h1>
 <form action="login.php" method="post">
   <div class="imgcontainer">
     <img src="../admin/assets/img/ql.jpg" alt="Avatar" class="avatar">
